@@ -1,0 +1,107 @@
+a{
+    text-decoration: none;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 14px 10px;
+    
+
+}
+
+body{
+    background-image: url(pexels-suzy-hazelwood-1629236.jpg);
+    size: 20%;
+}
+nav ul{
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+}
+
+nav{
+    background: black   ;
+}
+nav ul li a{
+padding: 20px;
+display: block;
+border: 1px rgb(190, 178, 178);
+padding: .5em 1em;
+margin: .25em;
+}
+h1{
+    color: white;
+}
+<style>
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #333;
+}
+
+li {
+float: left;
+}
+
+li a, .dropbtn {
+display: inline-block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+background-color: red;
+}
+
+li.dropdown {
+display: inline-block;
+}
+
+.dropdown-content {
+display: none;
+position: absolute;
+background-color: #f9f9f9;
+min-width: 160px;
+box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+z-index: 1;
+}
+
+.dropdown-content a {
+color:black(220, 209, 209);
+padding: 12px 16px;
+text-decoration: none;
+display: block;
+text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1;}
+
+.dropdown:hover .dropdown-content {
+display: block;
+}
+
+ 
+  
+body img {
+   width: 45%;
+   height: 25%;
+   padding-top: 1em;
+}
+
+
+table{
+    background-color:#f1f1f1;
+}
+th{
+    background-color: skyblue;
+}
+
+.foto{
+    height: 500px;
+    
+
+}
